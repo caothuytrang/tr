@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://lh3.googleusercontent.com/-2lXdyk2k9Iw/WRwOFDZOJPI/AAAAAAAAAmo/YxzBuk_RWRIQ53_x_ktLbufGWBMQWjxIQCJoC/w795-h254-p-rw/1.jpg'><img src='https://plus.google.com/u/0/photos/photo/115591158938256678410/6421022648696710386?icm=false&authkey=COrZ9unzuLz9iwE' width='500px'/><br/>Viên nang trắng da cao cấp My J Pink</a>. Xem thêm tại Khả Kim<h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href=''><img src='https://lh3.googleusercontent.com/-2lXdyk2k9Iw/WRwOFDZOJPI/AAAAAAAAAmo/YxzBuk_RWRIQ53_x_ktLbufGWBMQWjxIQCJoC/w795-h254-p-rw/1.jpg' width='500px'/><br/>Viên nang trắng da cao cấp My J Pink</a>. Xem thêm tại Khả Kim<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
